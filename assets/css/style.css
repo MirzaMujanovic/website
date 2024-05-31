@@ -183,11 +183,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 992px) {
   .nav-menu a {
-    width: 56px;
+    width: auto; /* Adjust width to auto to accommodate text */
   }
   .nav-menu a span {
-    display: none;
-    color: #fff;
+    display: inline-block; /* Ensure span is always displayed */
+    color: #45505b; /* Adjust color if needed */
   }
 }
 
