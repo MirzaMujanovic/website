@@ -188,4 +188,8 @@
     items: 1
   });
 
+/**
+   * Initiate Pure Counter 
+   */
+  new PureCounter();
 })(jQuery);
