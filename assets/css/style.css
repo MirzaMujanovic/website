@@ -402,11 +402,6 @@ section {
 # Employers / Brands
 --------------------------------------------------------------*/
 
-.brands {
-  padding: 100px 0;
-  background: #f9f9f9;
-}
-
 .brands .brand-logo {
   text-align: center;
   padding: 30px;
@@ -420,7 +415,6 @@ section {
 .brands .brand-logo img:hover {
   transform: scale(1.1);
 }
-
 
 /*--------------------------------------------------------------
 # Facts
