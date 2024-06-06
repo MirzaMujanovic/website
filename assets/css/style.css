@@ -739,6 +739,18 @@ section {
   right: 15px;
 }
 
+/*new*/
+.portfolio-item a {
+    display: block;
+    color: inherit; /* Ensure text color is inherited */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.portfolio-item a:hover .portfolio-wrap {
+    /* Add any hover effects if needed */
+}
+
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
