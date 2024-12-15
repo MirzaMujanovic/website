@@ -1427,6 +1427,30 @@ section {
   fill: #20c997;
 }
 
+.services .service-item.item-red i {
+  color: #e74c3c;
+}
+
+.services .service-item.item-red:hover .icon i {
+  color: #fff;
+}
+
+.services .service-item.item-red:hover .icon path {
+  fill: #e74c3c;
+}
+
+.services .service-item.item-blue i {
+  color: #3498db;
+}
+
+.services .service-item.item-blue:hover .icon i {
+  color: #fff;
+}
+
+.services .service-item.item-blue:hover .icon path {
+  fill: #3498db;
+}
+
 /*--------------------------------------------------------------
 # Media Queries
 --------------------------------------------------------------*/
